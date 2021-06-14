@@ -1,0 +1,6 @@
+  
+Hector,Perez,01-01-1973,45678.08
+Raul,Presto,20-01-1995,45000.13
+Esteban,Quito,20-02-1999,35000.00
+Pedro,Pinpom,20-01-2001,20000.02
+Gracielo,EntreBanderas,20-01-1975,25123.03
